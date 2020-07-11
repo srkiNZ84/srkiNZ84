@@ -3,7 +3,7 @@
 #### Im a Site Reliability Engineer based in [Auckland](https://en.wikipedia.org/wiki/Auckland), currently working at [ClearPoint](https://clearpoint.digital/).
 
 - 🔭 I’m currently working on too much AWS EC2 stuff
-- 🌱 I’m currently learning frontend stuff (HTML/CSS/JS), Python and Chaos engineering/expriments
+- 🌱 I’m currently learning frontend stuff (HTML/CSS/JS), [Cypress](https://www.cypress.io/), Python and Chaos engineering/expriments
 - 👯 I’m looking to collaborate on how to build [Progressive Web Apps](https://en.wikipedia.org/wiki/Progressive_web_application)
 - 🤔 I’m looking for help with trying to figure out which JS framework to use (if any)
 - 💬 Ask me about Kubernetes, AWS, Infrastructure as Code, CI/CD, automating deploys and rollbacks, metrics and tracing, centralized logging
