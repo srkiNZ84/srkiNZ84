@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! I'm Srđan Đukić 👋 (most people call me Serge)
+---
+#### Im a Site Reliability Engineer based in [Auckland](https://en.wikipedia.org/wiki/Auckland), currently working at [ClearPoint](https://clearpoint.digital/).
 
 <!--
 **srkiNZ84/srkiNZ84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
