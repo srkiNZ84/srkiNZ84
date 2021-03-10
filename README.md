@@ -10,3 +10,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/srdandukic/) - [Twitter](https://twitter.com/srkiNZ) - [StackOverflow](https://stackoverflow.com/users/365445/srkinz84?tab=profile) - [Blog](https://blog.dukic.co.nz/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once spent a whole client project kick off meeting eating. Just eating. Not even in a restaurant, was a board room.
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=srkiNZ84)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srkiNZ84&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
